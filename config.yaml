@@ -9,7 +9,7 @@ main:
     - random_forest
     - evaluate
   # This seed will be used to seed the random number generator
-  # to ensure repeatibility of the data splits and other
+  # to ensure repeatability of the data splits and other
   # pseudo-random operations
   random_seed: 42
 data:
