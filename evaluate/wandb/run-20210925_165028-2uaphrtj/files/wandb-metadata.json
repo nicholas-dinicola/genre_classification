@@ -1,0 +1,27 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2021-09-25T14:50:29.949761",
+    "startedAt": "2021-09-25T14:50:28.404176",
+    "docker": null,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/nicholas-dinicola/genre_classification.git",
+        "commit": "30a61e0d403c388d6b9a8a6fe5146f3f55ad8779"
+    },
+    "email": null,
+    "root": "/Users/nicholasdinicola/Desktop/genre_classification",
+    "host": "MBP-di-Apple.home",
+    "username": "nicholasdinicola",
+    "executable": "/Users/nicholasdinicola/miniconda3/envs/mlflow-9ad98997f01f10ca95d41cc160bcad3e8dac16f6/bin/python"
+}

@@ -1,0 +1,35 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2021-09-25T14:50:14.075970",
+    "startedAt": "2021-09-25T14:50:13.269141",
+    "docker": null,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "data_train.csv:latest",
+        "--model_config",
+        "/Users/nicholasdinicola/Desktop/genre_classification/outputs/2021-09-25/16-49-24/random_forest_config.yml",
+        "--export_artifact",
+        "model_export",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/nicholas-dinicola/genre_classification.git",
+        "commit": "30a61e0d403c388d6b9a8a6fe5146f3f55ad8779"
+    },
+    "email": null,
+    "root": "/Users/nicholasdinicola/Desktop/genre_classification",
+    "host": "MBP-di-Apple.home",
+    "username": "nicholasdinicola",
+    "executable": "/Users/nicholasdinicola/miniconda3/envs/mlflow-259d53ab44a1e9011b0c64ae862f43343c0fc9e5/bin/python"
+}

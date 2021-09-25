@@ -1,0 +1,31 @@
+{
+    "os": "macOS-11.4-x86_64-i386-64bit",
+    "python": "3.9.7",
+    "heartbeatAt": "2021-09-25T14:49:27.171296",
+    "startedAt": "2021-09-25T14:49:26.342065",
+    "docker": null,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/Users/nicholasdinicola/Desktop/genre_classification/download/download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "https://github.com/nicholas-dinicola/genre_classification.git",
+        "commit": "30a61e0d403c388d6b9a8a6fe5146f3f55ad8779"
+    },
+    "email": null,
+    "root": "/Users/nicholasdinicola/Desktop/genre_classification",
+    "host": "MBP-di-Apple.home",
+    "username": "nicholasdinicola",
+    "executable": "/Users/nicholasdinicola/miniconda3/envs/mlflow-4b67c93d2a95df2e00cbf3c9f644d2e3dada00e0/bin/python"
+}

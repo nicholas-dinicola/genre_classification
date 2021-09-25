@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nicholasdinicola/Desktop/genre_classification/mlruns/0/ee84d2d17ef24b6bbc2ab86915771eac/artifacts
+end_time: 1632581179170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ee84d2d17ef24b6bbc2ab86915771eac
+run_uuid: ee84d2d17ef24b6bbc2ab86915771eac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1632580615761
+status: 3
+tags: []
+user_id: nicholasdinicola
